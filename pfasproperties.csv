@@ -1,4 +1,4 @@
-Analyte abbreviation (table 1),CASRN,Carbon chain length,Molecular weight (g/mol),Acid dissociation (pKa),Log octanol-air (log Koa),Log octanol-water (log Kow),Soil adsorption (sorption coefficient; (Kd or Koc),Organic carbon (log Koc; L/kg),Log albumin/water (log Kaw)
+compund,CASRN,Carbon chain length,Molecular weight,Acid dissociation,Log octanol-air,Log octanol-water,Soil adsorption  coefficientkd,Organic carbon,Log albumin-water
 PFBA,375-22-4,4,214.04,0.08,2.43,2.82,58.43,2.17,2.52
 PFPeA,2706-90-3,5,264.0459,0.569,4.99,3.43,269.9,2.43,
 PFHxA,307-24-4,6,314.054,?0.16,5.24,4.06,"1,247",2.06,3.43
@@ -13,7 +13,7 @@ PFTeDA,376-06-7,14,714.11,?0.21,,,,5.2,
 FBSA,30334-69-1,4,299.111,5.98,4.73,3.72,"2,789",3.45,
 FhxSA,41997-13-1,6,399.13,,,,,,
 PFOSA,754-91-6,8,499.14,6.24,5.7,7.58,1270000,6,
-HFPO-DA,13252-13-6,6,330.053,?0.77–2.8,5.74,3.6,118.8,2.08,3.06
+HFPO-DA,13252-13-6,6,330.053,?0.77â€“2.8,5.74,3.6,118.8,2.08,3.06
 N-MeFOSE,24448-09-7,11,557.23,,,,,,
 N-MeFOSA,31506-32-8,9,513.169,,,,,,
 N-MeFOSAA,2355-31-9,11,571.21,3.92,,,,4.6,
@@ -48,6 +48,3 @@ PFMPA,377-73-1,4,230.04,,,,,,
 PFMBA,863090-89-5,5,280.045,,,,,,
 PFTA,376-06-7,14,714.11,,,,,,
 PfecHS,646-83-3,8,462.13,,,,,,4.55
-a,,,,,,,,,
-,,,,,,,,,
-Agency for Toxic Substances and Disease Registry (2021).,,,,,,,,,
